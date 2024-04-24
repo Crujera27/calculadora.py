@@ -7,7 +7,7 @@ Actualmente incluye:
 
 -   Una calculadora en la CLI
 -   Una calculadora en la GUI
--   Cliente para conectarse a una calculadora externa con sistema de autentificación (la calculadora en [web-files/calc.php](./web-files/calc.php))
+-   Cliente para conectarse a una calculadora externa con sistema de autentificación (la calculadora en [web-files/calc.php](./web-files/calc.php)
 
   
 
