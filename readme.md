@@ -28,4 +28,4 @@ python ./index.py
 # Notas
 
 No tiene mucha aplicación funcional, aparte de que me aburría y lo he dejado por aquí.
-Este código está redistribuido bajo la licencia MIT. Puede encontrarla en el archivo [aquí](./LICENSE.md)
+Este código está redistribuido bajo la licencia MIT. Puede encontrarla en el archivo [aquí](./LICENSE)
